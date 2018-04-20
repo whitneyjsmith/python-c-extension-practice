@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "teal_c_code", "teal_c_code\teal_c_code.vcxproj", "{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "teal_python_code", "teal_python_code\teal_python_code.pyproj", "{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Debug|x64.ActiveCfg = Debug|x64
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Debug|x64.Build.0 = Debug|x64
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Debug|x86.ActiveCfg = Release|Win32
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Debug|x86.Build.0 = Release|Win32
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Release|Any CPU.ActiveCfg = Release|Win32
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Release|x64.ActiveCfg = Release|x64
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Release|x64.Build.0 = Release|x64
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Release|x86.ActiveCfg = Release|Win32
+		{17D8ADD3-A8B7-48F2-9797-BAA48ABFC2DD}.Release|x86.Build.0 = Release|Win32
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Release|x64.ActiveCfg = Release|Any CPU
+		{A901A81D-05D7-4D7C-BBFA-EBD24D7E2717}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8AD7DBC-F1F1-4492-BF9F-4A26631D050B}
+	EndGlobalSection
+EndGlobal
